@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:123B63,100:1E3A8A&height=200&section=header&text=Amir%20Aziz&fontSize=60&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Data%20Science&descSize=18&descAlignY=57" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:123B63,100:1E3A8A&height=200&section=header&text=Mehran%20Dawar&fontSize=60&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Data%20Science&descSize=18&descAlignY=57" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=I+build+systems+that+see+and+track;AI+Engineer+Intern+%40+TestTrick;Computer+Vision+%7C+YOLO+%7C+OpenCV;BS+Data+Science+%C2%B7+UET+Peshawar+2026" alt="Typing animation" />
 
